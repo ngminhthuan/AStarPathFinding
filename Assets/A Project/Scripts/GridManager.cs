@@ -1,7 +1,5 @@
 using UnityEngine;
 using System.Collections.Generic;
-using UnityEditor.Experimental.GraphView;
-
 public class GridManager : MonoBehaviour
 {
     public LayerMask unwalkableMask;
